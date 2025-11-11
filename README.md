@@ -3,5 +3,5 @@ Form Input dan Output Data Mahasiswa dengan HTML & CSS
 
 ## Hasil Tampilan
 
-![Hasil Formulir 1](Screenshot%2025-11-11%212120.png)
-![Hasil Formulir 2](Screenshot%202025-11-10%20222545.png)
+![Hasil Formulir 1](Screenshot2025-11-11212120.png)
+![Hasil Formulir 2](Screenshot202025-11-1020222545.png)
